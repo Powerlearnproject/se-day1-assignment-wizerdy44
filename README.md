@@ -4,14 +4,14 @@ Software Engineering Day1 Assignment
 _____________________________________________________________________________________________________
 #PART 1: Introduction to Software Engineering
 _____________________________________________________________________________________________________
-QUIZ: Explain what software engineering is and discuss its importance in the technology industry.
+Explain what software engineering is and discuss its importance in the technology industry.
 
 ANSWER: Software engineering is the disciplined approach to designing, developing, testing, and maintaining software using engineering principles to ensure quality, reliability, and 
         efficiency. It is crucial in the technology industry as it builds robust, secure software while reducing costs and speeding up delivery. It enables scalability and flexibility 
         to adapt to user demands and changing requirements. Additionally, it simplifies maintenance and updates, ensuring software remains functional and relevant. By fostering rapid 
         development of complex systems, software engineering drives technological innovation and enhances user experiences.
 **************************************************************************************************
-QUIZ: Identify and describe at least three key milestones in the evolution of software engineering.
+Identify and describe at least three key milestones in the evolution of software engineering.
 
 ANSWER: Introduction of Structured Programming (1960s-1970s): This milestone emphasized the use of clear control structures like loops and conditionals, reducing spaghetti code and 
         improving code readability and maintainability. It laid the foundation for modern programming practices.
@@ -22,7 +22,7 @@ ANSWER: Introduction of Structured Programming (1960s-1970s): This milestone emp
         Agile Methodology (2001): The Agile Manifesto revolutionized software development by promoting iterative development, collaboration, and flexibility. It replaced traditional 
         waterfall models, enabling faster delivery of functional software and better adaptation to changing requirements.
 ***************************************************************************************************************
-QUIZ: List and briefly explain the phases of the Software Development Life Cycle.
+List and briefly explain the phases of the Software Development Life Cycle.
 
 ANSWER: 
         Planning: Identifying project scope, goals, budget, and timeline to ensure feasibility and resource allocation.
@@ -40,7 +40,8 @@ ANSWER:
         Maintenance: Providing ongoing support, fixing bugs, updating features, and ensuring the software remains functional and relevant.
         
 ***************************************************************************************************************
-QUIZ: Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 ANSWER: 
 Waterfall:
           Linear and sequential process with fixed phases.
@@ -58,7 +59,7 @@ Example scenario:
           Waterfall: Building accounting software for a bank where requirements are fixed and well-defined.
           Agile: Developing a social media app where features need to change based on user feedback.
 ***************************************************************************************************************
-QUIZ: Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 ANSWER: 
           Software Developer: Writes and maintains code, implements features, fixes bugs, and collaborates with designers and testers to ensure functionality and performance.
@@ -69,7 +70,7 @@ ANSWER:
           requirements and deadlines.
 
 ***************************************************************************************************************
-QUIZ: Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 ANSWER: 
       Integrated Development Environments (IDEs): Enhance productivity by providing tools like code editors, debuggers, and compilers in one place. They simplify coding, testing, and 
               debugging.
@@ -82,7 +83,7 @@ ANSWER:
       Examples: Git, Subversion (SVN).
 
 ***************************************************************************************************************
-QUIZ: What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
 ANSWER:
       Scope Creep: Uncontrolled changes in project requirements.
@@ -98,7 +99,7 @@ ANSWER:
       Strategy: Use collaboration tools (e.g., Slack, Jira) and hold regular stand-up meetings.
 
 ***************************************************************************************************************
-QUIZ: Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
 ANSWER: 
       Unit Testing: Tests individual components or functions to ensure they work correctly in isolation. It helps catch bugs early.
@@ -113,7 +114,7 @@ ________________________________________________________________________________
 #PART 2: Introduction to AI and Prompt Engineering
 _________________________________________________________________________________________________________________
 
-QUIZ: Define prompt engineering and discuss its importance in interacting with AI models.
+Define prompt engineering and discuss its importance in interacting with AI models.
 
 ANSWER:
         Prompt engineering is the process of designing and refining inputs (prompts) to effectively communicate with AI models to get accurate and relevant outputs. It involves crafting 
@@ -122,7 +123,7 @@ ANSWER:
         Importance: It maximizes the model's performance by ensuring clarity, context, and specificity, leading to better and more useful results. Good prompt engineering helps in 
         obtaining accurate answers, enhancing productivity, and reducing biases in AI interactions.
 ***************************************************************************************************************
-QUIZ: Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 ANSWER:
       Vague Prompt: 
